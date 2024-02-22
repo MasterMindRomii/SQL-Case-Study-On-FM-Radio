@@ -50,6 +50,7 @@ This repository contains SQL scripts to create and populate tables for managing 
 ## Sample Data
 
 Sample data has been inserted into the tables to facilitate analysis and testing of SQL queries.
+Link - https://nitish2162001.github.io/Websitep/case2.html
 
 ## SQL Queries
 
